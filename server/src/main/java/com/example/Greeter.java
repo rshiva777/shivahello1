@@ -3,7 +3,7 @@ package com.example;
 /**
  * This is a class.aaa
  */
-public class Greeter {
+{public class Greeter1 {
 
   /**
    * This is a constructor.

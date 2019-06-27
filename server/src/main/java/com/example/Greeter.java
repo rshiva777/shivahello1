@@ -6,6 +6,8 @@ package com.example;
 ppublic class Greeter {
   ppublic class Greeter {
   }
+    ppublic class Greeter {
+  }
 
   /**
    * This is a constructor.
